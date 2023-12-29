@@ -18,7 +18,7 @@ footer: © 2023 @twofiveoneten
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
-temp更新late: webstack
+template: webstack
 
 # Google analytics
 google_analytics: "G-EXE1PJ8CR2"
