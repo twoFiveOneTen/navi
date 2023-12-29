@@ -48,8 +48,14 @@ content:
         - name: dl.zkk.me
           description: 洛杉矶1云盘
           url: https://dl.zkk.me
-    - name: 第三方
+        - name: api.wuwz.net
+          description: 上海腾讯云TinyFileManager
+          url: https://api.wuwz.net
+    - name: 小工具
       sites:
         - name: 云端粘贴板
           description: 国内的一个云端粘贴板
           url: https://netcut.cn/zkk
+        - name: 易转换
+          description: 在线转换多种文件
+          url: https://www.easeconvert.com/
