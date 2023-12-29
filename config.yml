@@ -40,9 +40,20 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 编辑导航网站
+          description: 编辑此导航网站
+          url: https://github.dev/twoFiveOneTen/twofiveoneten.github.io
         - name: zkk的博客
           description: zkk的笔记本
           url: https://zkk.me
+    - name: 调试工具
+      sites:
+        - name: 上海腾讯云whistle
+          description: 上海腾讯云whistle
+          url: http://mock.wuwz.net
+        - name: 洛杉矶1服whistle
+          description: 洛杉矶1服whistle
+          url: http://mock.zkk.me
     - name: 云存储
       sites:
         - name: dl.zkk.me
