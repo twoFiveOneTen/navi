@@ -51,5 +51,5 @@ content:
     - name: 第三方
       sites:
         - name: 云端粘贴板
-        description: 国内的一个云端粘贴板
-        url: https://netcut.cn/zkk
+          description: 国内的一个云端粘贴板
+          url: https://netcut.cn/zkk
