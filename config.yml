@@ -49,6 +49,7 @@ content:
           description: 洛杉矶1云盘
           url: https://dl.zkk.me
     - name: 第三方
+      categories:
       - name: 小工具
         sites:
           - name: 云端粘贴板
