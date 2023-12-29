@@ -1,5 +1,5 @@
 # title of website
-title: navi
+title: zkk's navi
 
 # description of website
 description: twofiveoneten's navigation site
@@ -14,11 +14,11 @@ url: https://twofiveoneten.github.io/navi/
 github: "https://github.com/twofiveoneten"
 
 # footer message
-footer: © 2021-2021 @twofiveoneten
+footer: © 2023 @twofiveoneten
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
-template: webstack
+temp更新late: webstack
 
 # Google analytics
 google_analytics: "G-EXE1PJ8CR2"
