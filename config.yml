@@ -63,7 +63,7 @@ content:
           description: 洛杉矶1云盘
           url: https://dl.zkk.me
         - name: api.wuwz.net
-          description: 上海腾讯云TinyFileManager
+          description: 上海腾讯云TinyFileManager存储
           url: https://api.wuwz.net
     - name: 办公
       sites:
