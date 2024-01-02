@@ -62,6 +62,11 @@ content:
         - name: api.wuwz.net
           description: 上海腾讯云TinyFileManager
           url: https://api.wuwz.net
+    - name: 办公
+      sites:
+        - name: 南航邮箱
+          description: 南航邮箱
+          url: https://mail.nuaa.edu.cn
     - name: 小工具
       sites:
         - name: 云端粘贴板
