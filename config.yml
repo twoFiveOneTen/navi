@@ -78,3 +78,6 @@ content:
         - name: 易转换
           description: 在线转换多种文件
           url: https://www.easeconvert.com/
+        - name: iconfont
+          description: 阿里巴巴图标库
+          url: https://iconfont.cn
