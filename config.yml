@@ -81,3 +81,11 @@ content:
         - name: iconfont
           description: 阿里巴巴图标库
           url: https://iconfont.cn
+    - name: 树莓派
+      sites:
+        - name: 树莓派云存储
+          description: 树莓派的TinyFileManager
+          url: http://frp.zkk.me
+        - name: 红色警戒
+          description: 搭建在树莓派上的红色警戒网页游戏
+          url: http://frp.zkk.me/ra
