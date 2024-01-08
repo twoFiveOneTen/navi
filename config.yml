@@ -84,6 +84,9 @@ content:
         - name: iconfont
           description: 阿里巴巴图标库
           url: https://iconfont.cn
+        - name: ILoveIMG
+          description: 图片格式转换、图片压缩等图片处理
+          url: https://www.iloveimg.com/zh-cn
     - name: 树莓派
       sites:
         - name: 树莓派云存储
