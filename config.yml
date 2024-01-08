@@ -57,6 +57,11 @@ content:
         - name: Yaml代码格式校验
           description: 用来进行Yaml代码格式校验
           url: https://www.bejson.com/validators/yaml_editor/
+    - name: 监控
+      sites:
+        - name: 洛杉矶hostdare监控
+          description: 洛杉矶hostdare探针
+          url: http://193.22.152.253/prob.php
     - name: 云存储
       sites:
         - name: dl.zkk.me
@@ -65,13 +70,11 @@ content:
         - name: api.wuwz.net
           description: 上海腾讯云TinyFileManager存储
           url: https://api.wuwz.net
-    - name: 办公
+    - name: 效率
       sites:
         - name: 南航邮箱
           description: 南航邮箱
           url: https://mail.nuaa.edu.cn
-    - name: 小工具
-      sites:
         - name: 云端粘贴板
           description: 国内的一个云端粘贴板
           url: https://netcut.cn/zkk
