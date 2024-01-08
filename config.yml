@@ -91,7 +91,7 @@ content:
           url: http://frp.zkk.me/.prober/xprober.php
         - name: 红色警戒
           description: 搭建在树莓派上的红色警戒网页游戏
-          url: http://frp.zkk.me/ra
+          url: http://frp.zkk.me/.ra
         - name: 树莓派网络测速
           description: 公网连接树莓派情况测试
           url: http://frp.zkk.me/.speedtest
