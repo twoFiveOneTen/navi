@@ -67,10 +67,11 @@ content:
         - name: dl.zkk.me
           description: 洛杉矶1云盘
           url: https://dl.zkk.me
-          icon: https://api.wuwz.net/distribute/web/zkkme/img/features/favicon.png
+          icon: https://navi.zkk.me/icon/tinyfilemanager.png
         - name: api.wuwz.net
           description: 上海腾讯云TinyFileManager存储
           url: https://api.wuwz.net
+          icon: https://navi.zkk.me/icon/tinyfilemanager.png
     - name: 效率
       sites:
         - name: 南航邮箱
@@ -93,6 +94,7 @@ content:
         - name: 树莓派云存储
           description: 树莓派的TinyFileManager
           url: http://frp.zkk.me
+          icon: https://navi.zkk.me/icon/tinyfilemanager.png
         - name: 树莓派探针
           description: 树莓派的xprober探针
           url: http://frp.zkk.me/.prober/xprober.php
