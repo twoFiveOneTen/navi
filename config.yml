@@ -14,14 +14,14 @@ url: https://twofiveoneten.github.io/navi/
 github: "https://github.com/twofiveoneten"
 
 # footer message
-footer: © 2023 @twofiveoneten
+footer: © 2023 - 2024 @twofiveoneten
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
+# google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
   search:
