@@ -43,25 +43,31 @@ content:
         - name: 编辑导航网站
           description: 编辑此导航网站
           url: https://github.dev/twoFiveOneTen/twofiveoneten.github.io
+          icon: https://navi.zkk.me/icon/github.dev.png
         - name: zkk的博客
           description: zkk的笔记本
           url: https://zkk.me
+          icon: https://navi.zkk.me/icon/zkk.me.png
     - name: 调试工具
       sites:
         - name: 上海腾讯云whistle
           description: 上海腾讯云whistle
           url: http://mock.wuwz.net
+          icon: https://navi.zkk.me/icon/whistle.png
         - name: 洛杉矶1服whistle
           description: 洛杉矶1服whistle
           url: http://mock.zkk.me
+          icon: https://navi.zkk.me/icon/whistle.png
         - name: Yaml代码格式校验
           description: 用来进行Yaml代码格式校验
           url: https://www.bejson.com/validators/yaml_editor/
+          icon: https://navi.zkk.me/icon/www.bejson.com.png
     - name: 监控
       sites:
         - name: 洛杉矶hostdare监控
           description: 洛杉矶hostdare探针
           url: http://193.22.152.253/prob.php
+          icon: https://navi.zkk.me/icon/hostdare.png
     - name: 云存储
       sites:
         - name: dl.zkk.me
@@ -77,18 +83,23 @@ content:
         - name: 南航邮箱
           description: 南航邮箱
           url: https://mail.nuaa.edu.cn
+          icon: https://navi.zkk.me/icon/nuaa.png
         - name: 云端粘贴板
           description: 国内的一个云端粘贴板
           url: https://netcut.cn/zkk
+          icon: https://navi.zkk.me/icon/netcut.cn.png
         - name: 易转换
           description: 在线转换多种文件
           url: https://www.easeconvert.com/
+          icon: https://navi.zkk.me/icon/www.easeconvert.com.png
         - name: iconfont
           description: 阿里巴巴图标库
           url: https://iconfont.cn
+          icon: https://navi.zkk.me/icon/iconfont.cn.png
         - name: ILoveIMG
           description: 图片格式转换、图片压缩等图片处理
           url: https://www.iloveimg.com/zh-cn
+          icon: https://navi.zkk.me/icon/www.iloveimg.com.png
     - name: 树莓派
       sites:
         - name: 树莓派云存储
@@ -98,9 +109,12 @@ content:
         - name: 树莓派探针
           description: 树莓派的xprober探针
           url: http://frp.zkk.me/.prober/xprober.php
+          icon: https://navi.zkk.me/icon/rasperry.png
         - name: 红色警戒
           description: 搭建在树莓派上的红色警戒网页游戏
           url: http://frp.zkk.me/.ra
+          icon: https://navi.zkk.me/icon/ra2.png
         - name: 树莓派网络测速
           description: 公网连接树莓派情况测试
           url: http://frp.zkk.me/.speedtest
+          icon: https://navi.zkk.me/icon/rasperry.png
