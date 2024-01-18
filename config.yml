@@ -62,8 +62,6 @@ content:
           description: 用来进行Yaml代码格式校验
           url: https://www.bejson.com/validators/yaml_editor/
           icon: https://navi.zkk.me/icon/www.bejson.com.png
-    - name: 监控
-      sites:
         - name: 洛杉矶hostdare监控
           description: 洛杉矶hostdare探针
           url: http://193.22.152.253/prob.php
