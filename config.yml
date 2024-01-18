@@ -80,6 +80,10 @@ content:
           icon: https://navi.zkk.me/icon/tinyfilemanager.png
     - name: 效率
       sites:
+        - name: 语雀
+          description: 个人知识库
+          url: https://www.yuque.com/
+          icon: https://navi.zkk.me/icon/yuque.png
         - name: 南航邮箱
           description: 南航邮箱
           url: https://mail.nuaa.edu.cn
