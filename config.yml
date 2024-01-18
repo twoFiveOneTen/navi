@@ -104,6 +104,10 @@ content:
           description: 图片格式转换、图片压缩等图片处理
           url: https://www.iloveimg.com/zh-cn
           icon: https://navi.zkk.me/icon/www.iloveimg.com.png
+        - name: 草料二维码
+          description: 二维码工具
+          url: https://cli.im/
+          icon: https://navi.zkk.me/icon/cli.im.png
     - name: 树莓派
       sites:
         - name: 树莓派云存储
