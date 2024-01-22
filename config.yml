@@ -124,7 +124,7 @@ content:
           description: 搭建在树莓派上的红色警戒网页游戏
           url: http://frp.zkk.me/.ra
           icon: https://navi.zkk.me/icon/ra2.png
-        - name: 树莓派网络测速
+        - name: 树莓派连接测速
           description: 公网连接树莓派情况测试
           url: http://frp.zkk.me/.speedtest
           icon: https://navi.zkk.me/icon/rasperry.png
