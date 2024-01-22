@@ -66,6 +66,10 @@ content:
           description: 洛杉矶hostdare探针
           url: http://193.22.152.253/prob.php
           icon: https://navi.zkk.me/icon/hostdare.png
+        - name: 网络测速
+          description: speedtest.cn宽带测速
+          url: https://www.speedtest.cn/
+          icon: https://navi.zkk.me/icon/speedtest.cn.png
     - name: 云存储
       sites:
         - name: dl.zkk.me
