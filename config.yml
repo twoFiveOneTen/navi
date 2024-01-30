@@ -58,10 +58,10 @@ content:
           description: 洛杉矶1服whistle
           url: http://mock.zkk.me
           icon: https://navi.zkk.me/icon/whistle.png
-        - name: Yaml代码格式校验
-          description: 用来进行Yaml代码格式校验
-          url: https://www.bejson.com/validators/yaml_editor/
-          icon: https://navi.zkk.me/icon/www.bejson.com.png
+        - name: Traceroute
+          description: IPIP.NET的TraceRoute
+          url: https://tools.ipip.net/traceroute.php
+          icon: https://navi.zkk.me/icon/tools.ipip.net.png
         - name: 洛杉矶hostdare监控
           description: 洛杉矶hostdare探针
           url: http://193.22.152.253/prob.php
