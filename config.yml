@@ -84,6 +84,10 @@ content:
           description: 上海腾讯云TinyFileManager存储
           url: https://api.wuwz.net
           icon: https://navi.zkk.me/icon/tinyfilemanager.png
+        - name: 蓝奏云
+          description: 蓝奏云存储
+          url: https://zkkfile.lanzn.com
+          icon: https://navi.zkk.me/icon/lanzouyun.ico
     - name: 效率
       sites:
         - name: 语雀
