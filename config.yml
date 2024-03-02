@@ -118,6 +118,12 @@ content:
           description: 二维码工具
           url: https://cli.im/
           icon: https://navi.zkk.me/icon/cli.im.png
+    - name: 资源
+      sites:
+        - name: ZLibrary
+          description: 电子书资源
+          url: https://singlelogin.re
+          icon: https://navi.zkk.me/icon/singleLogin.re.png
     - name: 树莓派
       sites:
         - name: 树莓派云存储
