@@ -48,6 +48,20 @@ content:
           description: zkk的笔记本
           url: https://zkk.me
           icon: https://navi.zkk.me/icon/zkk.me.png
+    - name: AI工具
+      sites:
+        - name: ChatGPT
+          description: OpenAI的ChatGPT
+          url: https://chat.openai.com
+          icon: https://navi.zkk.me/icon/chat.openai.com.png
+        - name: Copilot
+          description: Microsoft的Copilot
+          url: https://copilot.microsoft.com
+          icon: https://navi.zkk.me/icon/copilot-microsoft.png
+        - name: claude.ai
+          description: claude.ai
+          url: https://claude.ai
+          icon: https://navi.zkk.me/icon/claude.png
     - name: 调试工具
       sites:
         - name: 上海腾讯云whistle
