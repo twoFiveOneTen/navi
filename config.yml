@@ -62,10 +62,6 @@ content:
           description: 智谱清言，中国的
           url: https://chatglm.cn
           icon: https://navi.zkk.me/icon/chatglm.cn.png
-        - name: claude.ai
-          description: claude.ai
-          url: https://claude.ai
-          icon: https://navi.zkk.me/icon/claude.png
     - name: 调试工具
       sites:
         - name: 上海腾讯云whistle
