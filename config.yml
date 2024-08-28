@@ -48,6 +48,10 @@ content:
           description: zkk的笔记本
           url: https://zkk.me
           icon: https://navi.zkk.me/icon/zkk.me.png
+        - name: webSSH
+          description: ssshwifty-WebSSH
+          url: https://ssh.byzkk.com
+          icon: https://navi.zkk.me/icon/sshwifty.ico
     - name: AI工具
       sites:
         - name: ChatGPT
